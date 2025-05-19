@@ -9,6 +9,8 @@ As a software organization, I would like to:
 * Consistently configure all environments
 * Reduce manual effort by automating application and environment setup, remediation
 * Have an easy way to manage application and infrastructure state across clusters/environments
+* ==Highlight==
+* <mark>Highlight</mark>
 
 ## What
 
